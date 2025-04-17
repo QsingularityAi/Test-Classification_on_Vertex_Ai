@@ -37,7 +37,7 @@ This repository contains a collection of Jupyter Notebooks that explore text cla
 
 ## Learning Objectives
 
-By exploring this project, you will learn how to:
+By exploring this project, my goal is to learn how to:
 
 *   Build and train various text classification models using Keras (DNN, RNN, CNN).
 *   Utilize pre-trained BERT models from TensorFlow Hub for text classification tasks like sentiment analysis.
